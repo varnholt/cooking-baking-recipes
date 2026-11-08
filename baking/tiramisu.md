@@ -1,6 +1,6 @@
-# Tiramisu
+# Davide's Tiramisu
 
-A ricotta and mascarpone tiramisu with strong coffee, savoiardi, and Disaronno or Marsala. Rebuilt from the original recipe with ingredient reference photos and a biscuit-layer diagram.
+Davide's ricotta and mascarpone tiramisu with strong coffee, savoiardi, and Disaronno or Marsala. Includes ingredient reference photos and a biscuit-layer diagram.
 
 ## Ingredients
 

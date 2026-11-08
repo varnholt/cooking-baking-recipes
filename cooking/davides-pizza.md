@@ -1,4 +1,4 @@
-# Davide's Pizza Recipe
+# Davide's Pizza
 The world's best pizza recipe (unmodified original text)
 
 There we go... I am sharing with you the recipe for pizza – 3 ppl.<br>
